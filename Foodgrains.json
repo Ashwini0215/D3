@@ -1,0 +1,118 @@
+[
+    {
+        "product": " Cereals",
+        "units": "238.79"
+    },
+    {
+        "product": " Rabi",
+        "units": "129.06"
+    },
+    {
+        "product": " Kharif",
+        "units": "128.07"
+    },
+    {
+        "product": " Cereals Kharif",
+        "units": "122.16"
+    },
+    {
+        "product": " Cereals Rabi",
+        "units": "116.63"
+    },
+    {
+        "product": " Rice",
+        "units": "105.24"
+    },
+    {
+        "product": " Wheat Rabi",
+        "units": "93.51"
+    },
+    {
+        "product": " Rice Kharif",
+        "units": "92.37"
+    },
+    {
+        "product": " Coarse Cereals",
+        "units": "40.04"
+    },
+    {
+        "product": " Coarse Cereals Kharif",
+        "units": "29.79"
+    },
+    {
+        "product": " Maize",
+        "units": "22.26"
+    },
+    {
+        "product": " Pulses",
+        "units": "18.34"
+    },
+    {
+        "product": " Maize Kharif",
+        "units": "16.19"
+    },
+    {
+        "product": " Rice Rabi",
+        "units": "12.87"
+    },
+    {
+        "product": " Pulses Rabi",
+        "units": "12.43"
+    },
+    {
+        "product": " Coarse Cereals Rabi",
+        "units": "10.25"
+    },
+    {
+        "product": " Gram Rabi",
+        "units": "8.83"
+    },
+    {
+        "product": " Bajra Kharif",
+        "units": "8.74"
+    },
+    {
+        "product": " Maize Rabi",
+        "units": "6.06"
+    },
+    {
+        "product": " Pulses Kharif",
+        "units": "5.91"
+    },
+    {
+        "product": " Jowar",
+        "units": "5.28"
+    },
+    {
+        "product": " Tur Kharif",
+        "units": "3.02"
+    },
+    {
+        "product": " Jowar Kharif",
+        "units": "2.84"
+    },
+    {
+        "product": " Other Kharif Pulses Rabi",
+        "units": "2.73"
+    },
+    {
+        "product": " Jowar Rabi",
+        "units": "2.44"
+    },
+    {
+        "product": " Barley Rabi",
+        "units": "1.75"
+    },
+    {
+        "product": " Ragi Kharif",
+        "units": "1.57"
+    },
+    {
+        "product": " Other Kharif Pulses Kharif",
+        "units": "0.62"
+    },
+    {
+        "product": " Small Millets Kharif",
+        "units": "0.44"
+    }
+]

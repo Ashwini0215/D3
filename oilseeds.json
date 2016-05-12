@@ -1,0 +1,62 @@
+[
+    {
+        "product": " Kharif",
+        "units": "20.791"
+    },
+    {
+        "product": " Soyabean Kharif",
+        "units": "14.666"
+    },
+    {
+        "product": " Rabi",
+        "units": "10.152"
+    },
+    {
+        "product": " Rapeseed and Mustard Rabi",
+        "units": "8.029"
+    },
+    {
+        "product": " Groundnut",
+        "units": "4.695"
+    },
+    {
+        "product": " Groundnut Kharif",
+        "units": "3.187"
+    },
+    {
+        "product": " Castorseed Kharif",
+        "units": "1.964"
+    },
+    {
+        "product": " Groundnut Rabi",
+        "units": "1.508"
+    },
+    {
+        "product": " Sesamun Kharif",
+        "units": "0.685"
+    },
+    {
+        "product": " Sunflower",
+        "units": "0.544"
+    },
+    {
+        "product": " Sunflower Rabi",
+        "units": "0.357"
+    },
+    {
+        "product": " Sunflower Kharif",
+        "units": "0.187"
+    },
+    {
+        "product": " Linseed Rabi",
+        "units": "0.149"
+    },
+    {
+        "product": " Safflower Rabi",
+        "units": "0.109"
+    },
+    {
+        "product": " Nigerseed Kharif",
+        "units": "0.102"
+    }
+]
